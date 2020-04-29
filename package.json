@@ -1,0 +1,19 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "Implement some ciphers because I am bored.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarshg99/ciphers-js.git"
+  },
+  "author": "Utkarsh Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarshg99/ciphers-js/issues"
+  },
+  "homepage": "https://github.com/utkarshg99/ciphers-js#readme"
+}
